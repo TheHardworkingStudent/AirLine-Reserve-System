@@ -1,4 +1,4 @@
-# Airline Flight Reservation System (Initial GUI)
+# Airline Flight Reservation System
 ![Screenshot 2024-12-30 153045](https://github.com/user-attachments/assets/a8fbc894-800a-4300-bac0-11874638307c)
 ![Screenshot 2024-12-30 153104](https://github.com/user-attachments/assets/bdb179ee-185c-49ff-a309-039d1f843ae6)
 ## Description
